@@ -11,5 +11,5 @@ def _exec_notebook(path):
         print("Test Complete !")
 
 
-
-_exec_notebook('./basic-ml-algo/classification-algo/LogisticRegression.ipynb')
+def test():
+	_exec_notebook('./basic-ml-algo/classification-algo/LogisticRegression.ipynb')
